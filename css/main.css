@@ -1,3 +1,10 @@
 h1{
     font-size: 1.5em;
-} 
+} .card {
+    margin-top: 1.6em;
+} .like{
+    height: 45px;
+    width: 45px;
+} .nickname {
+    font-size: 6em;
+}
